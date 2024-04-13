@@ -1,1 +1,1 @@
-DanResto - Aplikasi pemesanan makanan untuk restoran keluarga
+RestoKu - Aplikasi pemesanan makanan untuk restoran keluarga
